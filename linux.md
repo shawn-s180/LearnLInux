@@ -1,4 +1,4 @@
-- [Linux System](#Linux System)
+- [Linux System](#LinuxSystem)
 
   * [概念](##概念)
   * [命令](##命令)
